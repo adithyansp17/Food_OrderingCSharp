@@ -1,0 +1,149 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\Adithyan SP\\source\\repos\\FoodToOrder\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{60E9113F-9924-468D-8698-D239B6363680}|FoodToOrder\\FoodToOrder.csproj|c:\\users\\adithyan sp\\source\\repos\\foodtoorder\\foodtoorder\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{60E9113F-9924-468D-8698-D239B6363680}|FoodToOrder\\FoodToOrder.csproj|solutionrelative:foodtoorder\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{60E9113F-9924-468D-8698-D239B6363680}|FoodToOrder\\FoodToOrder.csproj|c:\\users\\adithyan sp\\source\\repos\\foodtoorder\\foodtoorder\\restaurantdata.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{60E9113F-9924-468D-8698-D239B6363680}|FoodToOrder\\FoodToOrder.csproj|solutionrelative:foodtoorder\\restaurantdata.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{54788073-CDA6-400E-A98B-831D90FF1B42}|FoodToOrderLibrary\\FoodToOrderLibrary.csproj|c:\\users\\adithyan sp\\source\\repos\\foodtoorder\\foodtoorderlibrary\\cartdetails.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{54788073-CDA6-400E-A98B-831D90FF1B42}|FoodToOrderLibrary\\FoodToOrderLibrary.csproj|solutionrelative:foodtoorderlibrary\\cartdetails.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A8A4E144-D3D4-4BA5-AEC9-4CD32055E3F3}|FoodToOrderWPF\\FoodToOrderWPF.csproj|c:\\users\\adithyan sp\\source\\repos\\foodtoorder\\foodtoorderwpf\\mainwindow.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A8A4E144-D3D4-4BA5-AEC9-4CD32055E3F3}|FoodToOrderWPF\\FoodToOrderWPF.csproj|solutionrelative:foodtoorderwpf\\mainwindow.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A8A4E144-D3D4-4BA5-AEC9-4CD32055E3F3}|FoodToOrderWPF\\FoodToOrderWPF.csproj|c:\\users\\adithyan sp\\source\\repos\\foodtoorder\\foodtoorderwpf\\mainwindow.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{A8A4E144-D3D4-4BA5-AEC9-4CD32055E3F3}|FoodToOrderWPF\\FoodToOrderWPF.csproj|solutionrelative:foodtoorderwpf\\mainwindow.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{54788073-CDA6-400E-A98B-831D90FF1B42}|FoodToOrderLibrary\\FoodToOrderLibrary.csproj|c:\\users\\adithyan sp\\source\\repos\\foodtoorder\\foodtoorderlibrary\\users.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{54788073-CDA6-400E-A98B-831D90FF1B42}|FoodToOrderLibrary\\FoodToOrderLibrary.csproj|solutionrelative:foodtoorderlibrary\\users.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A8A4E144-D3D4-4BA5-AEC9-4CD32055E3F3}|FoodToOrderWPF\\FoodToOrderWPF.csproj|c:\\users\\adithyan sp\\source\\repos\\foodtoorder\\foodtoorderwpf\\app.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{A8A4E144-D3D4-4BA5-AEC9-4CD32055E3F3}|FoodToOrderWPF\\FoodToOrderWPF.csproj|solutionrelative:foodtoorderwpf\\app.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A8A4E144-D3D4-4BA5-AEC9-4CD32055E3F3}|FoodToOrderWPF\\FoodToOrderWPF.csproj|c:\\users\\adithyan sp\\source\\repos\\foodtoorder\\foodtoorderwpf\\app.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A8A4E144-D3D4-4BA5-AEC9-4CD32055E3F3}|FoodToOrderWPF\\FoodToOrderWPF.csproj|solutionrelative:foodtoorderwpf\\app.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 3,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "RestaurantData.json",
+              "DocumentMoniker": "C:\\Users\\Adithyan SP\\source\\repos\\FoodToOrder\\FoodToOrder\\RestaurantData.json",
+              "RelativeDocumentMoniker": "FoodToOrder\\RestaurantData.json",
+              "ToolTip": "C:\\Users\\Adithyan SP\\source\\repos\\FoodToOrder\\FoodToOrder\\RestaurantData.json",
+              "RelativeToolTip": "FoodToOrder\\RestaurantData.json",
+              "ViewState": "AQIAAEgAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2024-04-15T10:13:41.837Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "CartDetails.cs",
+              "DocumentMoniker": "C:\\Users\\Adithyan SP\\source\\repos\\FoodToOrder\\FoodToOrderLibrary\\CartDetails.cs",
+              "RelativeDocumentMoniker": "FoodToOrderLibrary\\CartDetails.cs",
+              "ToolTip": "C:\\Users\\Adithyan SP\\source\\repos\\FoodToOrder\\FoodToOrderLibrary\\CartDetails.cs",
+              "RelativeToolTip": "FoodToOrderLibrary\\CartDetails.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-12T08:41:40.102Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Users.cs",
+              "DocumentMoniker": "C:\\Users\\Adithyan SP\\source\\repos\\FoodToOrder\\FoodToOrderLibrary\\Users.cs",
+              "RelativeDocumentMoniker": "FoodToOrderLibrary\\Users.cs",
+              "ToolTip": "C:\\Users\\Adithyan SP\\source\\repos\\FoodToOrder\\FoodToOrderLibrary\\Users.cs",
+              "RelativeToolTip": "FoodToOrderLibrary\\Users.cs",
+              "ViewState": "AQIAACQAAAAAAAAAAAAowAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-10T10:12:08.984Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\Adithyan SP\\source\\repos\\FoodToOrder\\FoodToOrder\\Program.cs",
+              "RelativeDocumentMoniker": "FoodToOrder\\Program.cs",
+              "ToolTip": "C:\\Users\\Adithyan SP\\source\\repos\\FoodToOrder\\FoodToOrder\\Program.cs",
+              "RelativeToolTip": "FoodToOrder\\Program.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAHUAAABAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-08T11:30:47.926Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "MainWindow.xaml.cs",
+              "DocumentMoniker": "C:\\Users\\Adithyan SP\\source\\repos\\FoodToOrder\\FoodToOrderWPF\\MainWindow.xaml.cs",
+              "RelativeDocumentMoniker": "FoodToOrderWPF\\MainWindow.xaml.cs",
+              "ToolTip": "C:\\Users\\Adithyan SP\\source\\repos\\FoodToOrder\\FoodToOrderWPF\\MainWindow.xaml.cs",
+              "RelativeToolTip": "FoodToOrderWPF\\MainWindow.xaml.cs",
+              "ViewState": "AQIAABcAAAAAAAAAAAA4wDsAAAAJAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-08T11:03:42.34Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "MainWindow.xaml",
+              "DocumentMoniker": "C:\\Users\\Adithyan SP\\source\\repos\\FoodToOrder\\FoodToOrderWPF\\MainWindow.xaml",
+              "RelativeDocumentMoniker": "FoodToOrderWPF\\MainWindow.xaml",
+              "ToolTip": "C:\\Users\\Adithyan SP\\source\\repos\\FoodToOrder\\FoodToOrderWPF\\MainWindow.xaml",
+              "RelativeToolTip": "FoodToOrderWPF\\MainWindow.xaml",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2024-04-08T11:03:29.343Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "App.xaml",
+              "DocumentMoniker": "C:\\Users\\Adithyan SP\\source\\repos\\FoodToOrder\\FoodToOrderWPF\\App.xaml",
+              "RelativeDocumentMoniker": "FoodToOrderWPF\\App.xaml",
+              "ToolTip": "C:\\Users\\Adithyan SP\\source\\repos\\FoodToOrder\\FoodToOrderWPF\\App.xaml",
+              "RelativeToolTip": "FoodToOrderWPF\\App.xaml",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2024-04-08T09:36:43.208Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "App.xaml.cs",
+              "DocumentMoniker": "C:\\Users\\Adithyan SP\\source\\repos\\FoodToOrder\\FoodToOrderWPF\\App.xaml.cs",
+              "RelativeDocumentMoniker": "FoodToOrderWPF\\App.xaml.cs",
+              "ToolTip": "C:\\Users\\Adithyan SP\\source\\repos\\FoodToOrder\\FoodToOrderWPF\\App.xaml.cs",
+              "RelativeToolTip": "FoodToOrderWPF\\App.xaml.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-08T09:30:51.08Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,103 @@
+[
+  {
+    "dishes": [
+      {
+        "Id": 1,
+        "DishName": "Pizza",
+        "Available": true,
+        "Price": 200,
+        "RestaurantId": 1
+      },
+      {
+        "Id": 2,
+        "DishName": "Sandwich",
+        "Available": true,
+        "Price": 60,
+        "RestaurantId": 1
+      },
+      {
+        "Id": 3,
+        "DishName": "Burger",
+        "Available": true,
+        "Price": 130,
+        "RestaurantId": 1
+      },
+      {
+        "Id": 4,
+        "DishName": "C.Stripes",
+        "Available": true,
+        "Price": 160,
+        "RestaurantId": 1
+      },
+      {
+        "Id": 5,
+        "DishName": "Cola",
+        "Available": true,
+        "Price": 40,
+        "RestaurantId": 1
+      }
+    ],
+    "Id": 1,
+    "RestaurantName": "KFC",
+    "Open": true,
+    "UserId": 0
+  },
+  {
+    "dishes": [
+      {
+        "Id": 1,
+        "DishName": "Rice",
+        "Available": true,
+        "Price": 30,
+        "RestaurantId": 2
+      },
+      {
+        "Id": 2,
+        "DishName": "Biryani",
+        "Available": true,
+        "Price": 120,
+        "RestaurantId": 2
+      },
+      {
+        "Id": 3,
+        "DishName": "Vada",
+        "Available": true,
+        "Price": 40,
+        "RestaurantId": 2
+      }
+    ],
+    "Id": 2,
+    "RestaurantName": "Chaithanya",
+    "Open": true,
+    "UserId": 0
+  },
+  {
+    "dishes": [
+      {
+        "Id": 1,
+        "DishName": "Ice cream",
+        "Available": true,
+        "Price": 30,
+        "RestaurantId": 3
+      },
+      {
+        "Id": 2,
+        "DishName": "Ice cream rolls",
+        "Available": true,
+        "Price": 50,
+        "RestaurantId": 3
+      },
+      {
+        "Id": 3,
+        "DishName": "Vanilla",
+        "Available": true,
+        "Price": 40,
+        "RestaurantId": 3
+      }
+    ],
+    "Id": 3,
+    "RestaurantName": "Baskin Robin",
+    "Open": true,
+    "UserId": 0
+  }
+]

@@ -1,0 +1,14 @@
+C:\Users\Adithyan SP\source\repos\FoodToOrder\FoodToOrderLibrary\bin\Debug\net8.0\FoodToOrderLibrary.deps.json
+C:\Users\Adithyan SP\source\repos\FoodToOrder\FoodToOrderLibrary\bin\Debug\net8.0\FoodToOrderLibrary.dll
+C:\Users\Adithyan SP\source\repos\FoodToOrder\FoodToOrderLibrary\bin\Debug\net8.0\FoodToOrderLibrary.pdb
+C:\Users\Adithyan SP\source\repos\FoodToOrder\FoodToOrderLibrary\obj\Debug\net8.0\FoodToOrderLibrary.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Adithyan SP\source\repos\FoodToOrder\FoodToOrderLibrary\obj\Debug\net8.0\FoodToOrderLibrary.AssemblyInfoInputs.cache
+C:\Users\Adithyan SP\source\repos\FoodToOrder\FoodToOrderLibrary\obj\Debug\net8.0\FoodToOrderLibrary.AssemblyInfo.cs
+C:\Users\Adithyan SP\source\repos\FoodToOrder\FoodToOrderLibrary\obj\Debug\net8.0\FoodToOrderLibrary.csproj.CoreCompileInputs.cache
+C:\Users\Adithyan SP\source\repos\FoodToOrder\FoodToOrderLibrary\obj\Debug\net8.0\FoodToOrderLibrary.dll
+C:\Users\Adithyan SP\source\repos\FoodToOrder\FoodToOrderLibrary\obj\Debug\net8.0\refint\FoodToOrderLibrary.dll
+C:\Users\Adithyan SP\source\repos\FoodToOrder\FoodToOrderLibrary\obj\Debug\net8.0\FoodToOrderLibrary.pdb
+C:\Users\Adithyan SP\source\repos\FoodToOrder\FoodToOrderLibrary\obj\Debug\net8.0\ref\FoodToOrderLibrary.dll
+C:\Users\Adithyan SP\source\repos\FoodToOrder\FoodToOrderLibrary\bin\Debug\net8.0\FoodToOrderLibrary.runtimeconfig.json
+C:\Users\Adithyan SP\source\repos\FoodToOrder\FoodToOrderLibrary\obj\Debug\net8.0\FoodToOrderLibrary.csproj.AssemblyReference.cache
+C:\Users\Adithyan SP\source\repos\FoodToOrder\FoodToOrderLibrary\obj\Debug\net8.0\FoodToOrderLibrary.genruntimeconfig.cache
